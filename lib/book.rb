@@ -8,6 +8,4 @@ class Book
     @title
   end
 
-  def
-  end
 end
